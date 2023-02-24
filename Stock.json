@@ -1,0 +1,35 @@
+
+  {
+    "StockS": [
+      {
+        "StockName": "GOOGLE",
+        "ShareS": 2,
+        "Price": 700
+      },
+      {
+        "StockName": "IBM",
+        "ShareS": 3,
+        "Price": 500
+      },
+      {
+        "StockName": "TCS",
+        "ShareS": 2,
+        "Price": 300
+      },
+      {
+        "StockName": "AMDOCS",
+        "ShareS": 1,
+        "Price": 100
+      },
+      {
+        "StockName": "RBI",
+        "ShareS": 4,
+        "Price": 400
+      },
+      {
+        "StockName": "TATA",
+        "ShareS": 5,
+        "Price": 900
+      }
+    ]
+  }
